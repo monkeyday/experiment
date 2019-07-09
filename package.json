@@ -1,0 +1,20 @@
+{
+  "name": "DODAO",
+  "description": "display open data of agriculture and others",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "monkeyday",
+  "license": "MIT",
+  "repository": "none",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-minify": "^0.2.0",
+    "babel-register": "^6.24.1"
+  }
+}
